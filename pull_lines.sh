@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # pull the third line from each file in this directory and add it to a new file
